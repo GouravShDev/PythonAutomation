@@ -1,0 +1,1 @@
+@pyw D:\Projects\Python\Scripts\pirate.py %*
